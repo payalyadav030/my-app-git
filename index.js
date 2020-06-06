@@ -1,1 +1,1 @@
-console.log("this is my git-app")
+console.log("this is my git-app");
